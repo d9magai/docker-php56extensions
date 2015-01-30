@@ -8,6 +8,7 @@ php-mbstring \
 php-pear \
 php-gd \
 php-xml \
+php-mcrypt \
 php-pdo && \
 yum clean all
 

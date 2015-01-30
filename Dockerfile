@@ -1,4 +1,4 @@
-FROM d9magai/docker-php56
+FROM d9magai/php56
 MAINTAINER d9magai
 
 RUN yum update -y && \
